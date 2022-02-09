@@ -1,4 +1,4 @@
-#  🧑🏽‍💻  About Me :
+#  👨🏾‍💻🏽‍💻  About Me :
 Persuing B.S in CS at Oregon State University
 Future full stack developer in the making
 
