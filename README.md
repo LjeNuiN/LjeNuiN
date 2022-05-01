@@ -1,7 +1,6 @@
 #  👨🏾‍💻 About Me :
 Pursuing B.S in CS at Oregon State University
 
-Future full stack developer in the making
 
 
 ## 🌐Socials
